@@ -1,2 +1,2 @@
-# demo-project
-test demo
+This is a demo project
+DEmo and demo only
